@@ -42,6 +42,5 @@ public class StringBuilderUndo {
             stringBuilder = new StringBuilder(previousState);
         }
     }
-
 }
 
